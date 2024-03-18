@@ -3,6 +3,8 @@
 ## Привет, меня зовут Алексей!
 Я начинающий тестировщик
 
+![Mail](https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=mail.ru)
+
 ## Learning Now
 ![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=bash)
 ## Tools
@@ -17,4 +19,5 @@
 ![FIDDLER](https://img.shields.io/badge/FIDDLER-black?style=for-the-badge&logo=Fiddlerclassic)
 
 ## Follow me
-![Mail](https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=mail.ru)
+[![telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/alexeyzimenkov)
+[![VK](https://img.shields.io/badge/VK-black?style=for-the-badge&logo=VK)](https://vk.com/beard_zimenkov)
