@@ -6,7 +6,7 @@
 [![Mail](https://img.shields.io/badge/Mail-536053?style=for-the-badge&logo=mail.ru)](mailto:beard.89@mail.ru)
 [![telegram](https://img.shields.io/badge/telegram-536053?style=for-the-badge&logo=telegram)](https://t.me/alexeyzimenkov)
 
-## Изучаю
+## В процессе изучения
 ![Bash](https://img.shields.io/badge/bash-536053?style=for-the-badge&logo=bash)
 ## Инструменты
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-536053?style=for-the-badge&logo=postman)
