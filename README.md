@@ -1,4 +1,4 @@
-![Header](https://github.com/Zimenkov-Alexey/zimenkov-alexey/blob/main/assets/Header.jpg)
+![Header](https://github.com/Zimenkov-Alexey/zimenkov-alexey/blob/main/assets/Header.png)
 
 About Me
 
