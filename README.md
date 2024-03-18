@@ -1,6 +1,7 @@
 ![Header](https://github.com/Zimenkov-Alexey/zimenkov-alexey/blob/main/assets/Header.png)
 
-About Me
+## Привет, меня зовут Алексей!
+### Я начинающий тестировщик
 
 learning Now
 
