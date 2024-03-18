@@ -1,7 +1,8 @@
 ![Header](https://github.com/Zimenkov-Alexey/zimenkov-alexey/blob/main/assets/Header.png)
 
 ## Привет, меня зовут Алексей!
-Я начинающий тестировщик
+Я начинающий тестировщик и это мое портфолио:
+
 ## Свзаться со мной
 [![Mail](https://img.shields.io/badge/Mail-536053?style=for-the-badge&logo=mail.ru)](mailto:beard.89@mail.ru)
 [![telegram](https://img.shields.io/badge/telegram-536053?style=for-the-badge&logo=telegram)](https://t.me/alexeyzimenkov)
