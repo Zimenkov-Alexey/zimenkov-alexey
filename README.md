@@ -4,7 +4,7 @@
 Я начинающий тестировщик и это мое портфолио
 ###### Обучение:
 [![Тестирование ПО](https://img.shields.io/badge/Тестирование_ПО-536053?style=for-the-badge&logo=stepik)](https://stepik.org/cert/2389739)
-[![Poatman](https://img.shields.io/badge/POSTMAN-536053?style=for-the-badge&logo=postman)](https://stepik.org/cert/2430842)
+[![Postman](https://img.shields.io/badge/POSTMAN-536053?style=for-the-badge&logo=postman)](https://stepik.org/cert/2430842)
 [![SQL](https://img.shields.io/badge/SQL-536053?style=for-the-badge&logo=mysql)](https://stepik.org/cert/2413132)
   
 ##### Примеры работ:
@@ -12,8 +12,9 @@
 [![POSTMAN Petsore](https://img.shields.io/badge/POSTMAN_Petsore-536053?style=for-the-badge&logo=postman)](https://www.postman.com/beard89/workspace/public-workspace/collection/25761069-37afc777-8eaa-49da-86b8-2746f624aea5?action=share&creator=25761069)
 
 ## Свзаться со мной
-[![Яндекс почта](https://img.shields.io/badge/Почта-536053?style=for-the-badge&logo=ya.ru)](mailto:aleksey.zimenkov@yandex.ru)
+[![Яндекс почта](https://img.shields.io/badge/MAIL-536053?style=for-the-badge&logo=mail)](mailto:aleksey.zimenkov@yandex.ru)
 [![telegram](https://img.shields.io/badge/telegram-536053?style=for-the-badge&logo=telegram)](https://t.me/alexeyzimenkov)
+[![whatsapp](https://img.shields.io/badge/whatsapp-536053?style=for-the-badge&logo=whatsapp)](https://wa.me/79126628550)
 
 ## В процессе изучения
 ![Pycharm](https://img.shields.io/badge/PYCHARM-536053?style=for-the-badge&logo=pucharm)
