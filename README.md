@@ -14,7 +14,7 @@
 
 ## Инструменты
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-536053?style=for-the-badge&logo=postman)
-![SQL](https://img.shields.io/badge/SQL_Workbench-536053?style=for-the-badge&logo=mysql)
+![SQL](https://img.shields.io/badge/SQL-536053?style=for-the-badge&logo=mysql)
 ![devtools](https://img.shields.io/badge/DevTools-536053?style=for-the-badge&logo=googlechrome)
 ![Jira](https://img.shields.io/badge/JIRA-536053?style=for-the-badge&logo=jira)
 ![Yandex Tracker](https://img.shields.io/badge/YandexTracker-536053?style=for-the-badge&logo=yandex_tracker)
