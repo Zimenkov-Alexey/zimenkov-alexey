@@ -5,7 +5,7 @@
 
 [SQL](https://github.com/Zimenkov-Alexey/MySQL-work)
 
-[POSTMAN Petsore](https://www.postman.com/beard89/workspace/public-workspace/collection/25761069-37afc777-8eaa-49da-86b8-2746f624aea5?action=share&creator=25761069)
+[![POSTMAN Petsore](https://img.shields.io/badge/POSTMAN_Petsore-536053?style=for-the-badge&logo=postman)](https://www.postman.com/beard89/workspace/public-workspace/collection/25761069-37afc777-8eaa-49da-86b8-2746f624aea5?action=share&creator=25761069)
 ## Свзаться со мной
 [![Mail](https://img.shields.io/badge/Mail-536053?style=for-the-badge&logo=mail.ru)](mailto:beard.89@mail.ru)
 [![telegram](https://img.shields.io/badge/telegram-536053?style=for-the-badge&logo=telegram)](https://t.me/alexeyzimenkov)
