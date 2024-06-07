@@ -3,7 +3,7 @@
 ## Привет, меня зовут Алексей!
 Я начинающий тестировщик и это мое портфолио:
   Обучение:
-  [![Тестирование ПО](https://img.shields.io/badge/stepik-536053?style=for-the-badge&logo=stepik)]([https://github.com/Zimenkov-Alexey/MySQL-work](https://stepik.org/cert/2389739))
+  [![Тестирование ПО](https://img.shields.io/badge/Тестирование_ПО-536053?style=for-the-badge&logo=stepik)](https://stepik.org/cert/2389739)
   [![SQL LESSON](https://img.shields.io/badge/SQL_LESSON-536053?style=for-the-badge&logo=mysql)](https://github.com/Zimenkov-Alexey/MySQL-work)
   [![SQL LESSON](https://img.shields.io/badge/SQL_LESSON-536053?style=for-the-badge&logo=mysql)](https://github.com/Zimenkov-Alexey/MySQL-work)
   
