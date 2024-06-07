@@ -17,10 +17,10 @@
 ![SQL](https://img.shields.io/badge/SQL-536053?style=for-the-badge&logo=mysql)
 ![devtools](https://img.shields.io/badge/DevTools-536053?style=for-the-badge&logo=googlechrome)
 ![Jira](https://img.shields.io/badge/JIRA-536053?style=for-the-badge&logo=jira)
-![Yandex Tracker](???
+![Yandex Tracker](https://img.shields.io/badge/YandexTracker-536053?style=for-the-badge&logo=yandex_tracker)
 ![GIT](https://img.shields.io/badge/GIT-536053?style=for-the-badge&logo=git)
 ![FIDDLER](https://img.shields.io/badge/FIDDLER-536053?style=for-the-badge&logo=Fiddlerclassic)
-![Xmind](????
+![Xmind](https://img.shields.io/badge/XMIND-536053?style=for-the-badge&logo=xmind)
 
 ## Социальные сети
 [![telegram](https://img.shields.io/badge/telegram-536053?style=for-the-badge&logo=telegram)](https://t.me/alexeyzimenkov)
