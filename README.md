@@ -11,13 +11,16 @@
 [![telegram](https://img.shields.io/badge/telegram-536053?style=for-the-badge&logo=telegram)](https://t.me/alexeyzimenkov)
 
 ## В процессе изучения
+![Pycharm](https://img.shields.io/badge/PYCHARM-536053?style=for-the-badge&logo=pucharm)
+![SELENIUM IDE](https://img.shields.io/badge/selenium-536053?style=for-the-badge&logo=selenium)
 
 ## Инструменты
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-536053?style=for-the-badge&logo=postman)
 ![SQL](https://img.shields.io/badge/SQL-536053?style=for-the-badge&logo=mysql)
 ![devtools](https://img.shields.io/badge/DevTools-536053?style=for-the-badge&logo=googlechrome)
-![Jira](https://img.shields.io/badge/JIRA-536053?style=for-the-badge&logo=jira)
 ![Yandex Tracker](https://img.shields.io/badge/YandexTracker-536053?style=for-the-badge&logo=yandex_tracker)
+![TestRail](https://img.shields.io/badge/TESTRAIL-536053?style=for-the-badge&logo=testrail)
+![Jira](https://img.shields.io/badge/JIRA-536053?style=for-the-badge&logo=jira)
 ![GIT](https://img.shields.io/badge/GIT-536053?style=for-the-badge&logo=git)
 ![FIDDLER](https://img.shields.io/badge/FIDDLER-536053?style=for-the-badge&logo=Fiddlerclassic)
 ![Xmind](https://img.shields.io/badge/XMIND-536053?style=for-the-badge&logo=xmind)
