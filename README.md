@@ -1,15 +1,16 @@
 ![Header](https://github.com/Zimenkov-Alexey/zimenkov-alexey/blob/main/assets/Header.png)
 
 ## Привет, меня зовут Алексей!
-Я начинающий тестировщик и это мое портфолио:
-### Обучение:
+Я начинающий тестировщик и это мое портфолио
+###### Обучение:
 [![Тестирование ПО](https://img.shields.io/badge/Тестирование_ПО-536053?style=for-the-badge&logo=stepik)](https://stepik.org/cert/2389739)
-[![SQL LESSON](https://img.shields.io/badge/SQL_LESSON-536053?style=for-the-badge&logo=mysql)](https://github.com/Zimenkov-Alexey/MySQL-work)
-  [![SQL LESSON](https://img.shields.io/badge/SQL_LESSON-536053?style=for-the-badge&logo=mysql)](https://github.com/Zimenkov-Alexey/MySQL-work)
+[![Poatman](https://img.shields.io/badge/POSTMAN-536053?style=for-the-badge&logo=postman)](https://stepik.org/cert/2430842)
+[![SQL](https://img.shields.io/badge/SQL-536053?style=for-the-badge&logo=mysql)](https://stepik.org/cert/2413132)
   
-  #### Примеры работ:
+##### Примеры работ:
 [![SQL LESSON](https://img.shields.io/badge/SQL_LESSON-536053?style=for-the-badge&logo=mysql)](https://github.com/Zimenkov-Alexey/MySQL-work)
 [![POSTMAN Petsore](https://img.shields.io/badge/POSTMAN_Petsore-536053?style=for-the-badge&logo=postman)](https://www.postman.com/beard89/workspace/public-workspace/collection/25761069-37afc777-8eaa-49da-86b8-2746f624aea5?action=share&creator=25761069)
+
 ## Свзаться со мной
 [![Mail](https://img.shields.io/badge/Mail-536053?style=for-the-badge&logo=mail.ru)](mailto:beard.89@mail.ru)
 [![telegram](https://img.shields.io/badge/telegram-536053?style=for-the-badge&logo=telegram)](https://t.me/alexeyzimenkov)
