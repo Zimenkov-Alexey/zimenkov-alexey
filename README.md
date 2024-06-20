@@ -17,8 +17,8 @@
 [![telegram](https://img.shields.io/badge/telegram-536053?style=for-the-badge&logo=telegram)](https://t.me/alexeyzimenkov)
 [![whatsapp](https://img.shields.io/badge/whatsapp-536053?style=for-the-badge&logo=whatsapp)](https://wa.me/79126628550)
 
-## В процессе изучения
-![Pycharm](https://img.shields.io/badge/PYCHARM-536053?style=for-the-badge&logo=pucharm)
+## В процессе изучения/планирую изучать
+![JavaScript](https://img.shields.io/badge/JavaScript-536053?style=for-the-badge&logo=javascript)
 ![SELENIUM IDE](https://img.shields.io/badge/selenium-536053?style=for-the-badge&logo=selenium)
 
 ## Инструменты
