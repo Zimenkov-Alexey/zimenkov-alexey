@@ -1,7 +1,7 @@
 ![Header](https://github.com/Zimenkov-Alexey/zimenkov-alexey/blob/main/assets/Header.png)
 
 ## Привет, меня зовут Алексей!
-Я начинающий тестировщик и это мое портфолио
+Я начинающий тестировщик
 ###### Обучение:
 [![Тестирование ПО](https://img.shields.io/badge/Тестирование_ПО-536053?style=for-the-badge&logo=stepik)](https://stepik.org/cert/2389739)
 [![Postman](https://img.shields.io/badge/POSTMAN-536053?style=for-the-badge&logo=postman)](https://stepik.org/cert/2430842)
