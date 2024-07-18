@@ -5,9 +5,9 @@
 ###### Обучение:
 [![Тестирование ПО](https://img.shields.io/badge/Тестирование_ПО-536053?style=for-the-badge&logo=stepik)](https://stepik.org/cert/2389739)
 [![Postman](https://img.shields.io/badge/POSTMAN-536053?style=for-the-badge&logo=postman)](https://stepik.org/cert/2430842)
-[![SQL](https://img.shields.io/badge/SQL-536053?style=for-the-badge&logo=mysql)](https://stepik.org/cert/2413132)
+[![Основы SQL](https://img.shields.io/badge/SQL-536053?style=for-the-badge&logo=mysql)](https://stepik.org/cert/2413132)
 [![Тестировщик ПО](https://img.shields.io/badge/Тестировщик_ПО-536053?style=for-the-badge&logo=tsu_share)](https://www.tgu-dpo.ru/program/softwaretesting)
-[![JS](https://img.shields.io/badge/JS-536053?style=for-the-badge&logo=javascript)](https://stepik.org/cert/2522947)
+[![Основы JS](https://img.shields.io/badge/JS-536053?style=for-the-badge&logo=javascript)](https://stepik.org/cert/2522947)
 
   
 ###### Примеры работ:
